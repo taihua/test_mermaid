@@ -19,5 +19,5 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-url: https://mermaid-js.github.io/mermaid/#/README
-url: https://developer-tech.com/news/2022/jan/25/open-source-critical-role-tackling-uk-developer-shortage/
+* url: https://mermaid-js.github.io/mermaid/#/README
+* url: https://developer-tech.com/news/2022/jan/25/open-source-critical-role-tackling-uk-developer-shortage/
